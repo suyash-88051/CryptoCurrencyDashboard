@@ -1,0 +1,4 @@
+Date: The DATE describes the data of observations
+Open: The OPEN is the Opening Price on the given day.
+High: The HIGH is the highest price on the given day.
+Low: The LOW is the lowest price on the given day.
